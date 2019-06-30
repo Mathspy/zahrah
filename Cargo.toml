@@ -1,8 +1,8 @@
 [package]
-name = "remove-false-votes"
+name = "zahrah"
 version = "0.1.0"
 authors = ["Mathspy <mathspy257@gmail.com>"]
 edition = "2018"
 
 [dependencies]
-serenity = "0.6.0-rc.1"
+serenity = "0.6.2"
