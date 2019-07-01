@@ -1,2 +1,5 @@
 /target
 **/*.rs.bk
+
+# environment variables
+.env
